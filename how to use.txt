@@ -1,0 +1,15 @@
+1/intalling requirements with cmd :
+pip install numpy==1.19.2
+pip install scipy==1.4.1
+pip install imutils==0.5.3
+pip install opencv-python==4.2.0.32
+pip install argparse==1.4.0
+2/donwload the weights : https://drive.google.com/file/d/1O2zmGIIHLX8SGs24W7mjRyFKvE_CSY8n/view?usp=sharing
+3/place the weights in the yolo folder
+------------------------------------
+to run :
+1/open cmd
+2/cd D:\social detecion\socialdistancingdetector(wher you clone the repository you know how to go to the folder)
+3/python run.py -i mylib/videos/test.mp4
+enjoy <3
+yahya hajlaoui <3
